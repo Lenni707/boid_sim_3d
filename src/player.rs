@@ -16,7 +16,7 @@ impl Default for FlyCamera {
             pitch: 0.0,
             yaw: 0.0,
             sensitivity: 0.002,
-            speed: 5.0,
+            speed: 10.0,
         }
     }
 }
